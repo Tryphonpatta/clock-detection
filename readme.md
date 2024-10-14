@@ -80,12 +80,6 @@ python clock_detection.py --mode webcam
 - For webcams, verify permissions if the stream fails to start.
 - Double-check the file path for video or image inputs.
 
----
-
-## Example Output
-
-![Example Output](path/to/example-image.jpg)  
-_(Replace this with an actual image showing the program's output.)_
 
 ---
 
